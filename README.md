@@ -1,6 +1,6 @@
 # Custom RISC-V Core Developed for Capstone Project 
 
-Includes (Planned) Features:
+Includes (Planned) Features:  
     - Out of Order Execution
     - Superscaler, multi-issue (maybe)
     - Multiple Cores
