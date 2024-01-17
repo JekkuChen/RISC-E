@@ -1,4 +1,4 @@
-Custom RISC-V Core Developed for Capstone Project 
+# Custom RISC-V Core Developed for Capstone Project 
 
 Includes (Planned) Features:
     - Out of Order Execution
